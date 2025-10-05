@@ -50,10 +50,7 @@ const Main = () => {
                                 <img src={assets.compass_icon} alt="" />
                             </div>
 
-                            <div className="card" onClick={() => handleCardClick("Briefly summarize this concept: urban planning")}>
-                                <p>Briefly summarize this concept: urban planning</p>
-                                <img src={assets.bulb_icon} alt="" />
-                            </div>
+                           
 
                             <div className="card" onClick={() => handleCardClick("Brainstorm team bonding activities for our work retreat")}>
                                 <p>Brainstorm team bonding activities for our work retreat</p>
